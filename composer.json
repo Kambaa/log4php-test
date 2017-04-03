@@ -1,5 +1,15 @@
 {
-    "require": {
+  "name": "Kambaa/log4php-test",
+  "description": "A loggin example.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yusuf Gündüz",
+      "email": "yusuf.gunduz@gmail.com"
+    }
+  ],
+   "require": {
         "apache/log4php": "2.3.0"
     }
 }
